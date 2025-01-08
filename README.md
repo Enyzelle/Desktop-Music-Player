@@ -19,7 +19,7 @@ A minimalist, aesthetic desktop music player built with Python. Supports both lo
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Enyzelle/music-player.git
+git clone https://github.com/Enyzelle/desktop-music-player.git
 
 cd music-player
 ```
