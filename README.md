@@ -53,8 +53,8 @@ python3 music_player.py
 - 📂 Open music file
 - ✕ Close player
 - << Previous track
-- > Play/Pause (II) 
-- >> Next track
+- \> Play/Pause (II) 
+- \>> Next track
 
 ### Features
 - Drag the window to move it
